@@ -1,0 +1,10 @@
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\IntercomConsoleApp.exe.config
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\IntercomConsoleApp.exe
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\IntercomConsoleApp.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Debug\IntercomConsoleApp.csprojResolveAssemblyReference.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Debug\IntercomConsoleApp.csproj.CoreCompileInputs.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Debug\IntercomConsoleApp.exe
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Debug\IntercomConsoleApp.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\bin\Debug\customers.txt

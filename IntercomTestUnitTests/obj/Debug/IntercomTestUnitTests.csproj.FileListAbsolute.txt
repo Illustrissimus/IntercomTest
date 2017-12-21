@@ -1,0 +1,29 @@
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTestUnitTests.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTestUnitTests.pdb
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTest.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTest.pdb
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTestUnitTests.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTestUnitTests.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.csprojResolveAssemblyReference.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.csproj.CoreCompileInputs.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTestUnitTests\obj\Debug\IntercomTestUnitTests.pdb

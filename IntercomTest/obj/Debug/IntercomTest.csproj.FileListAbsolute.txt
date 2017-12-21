@@ -1,0 +1,10 @@
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTest\bin\Debug\IntercomTest.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTest\bin\Debug\IntercomTest.pdb
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTest\obj\Debug\IntercomTest.dll
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTest\obj\Debug\IntercomTest.pdb
+C:\Users\ejosive\documents\visual studio 2017\Projects\IntercomTest\IntercomTest\obj\Debug\IntercomTest.csprojResolveAssemblyReference.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Debug\IntercomTest.csproj.CoreCompileInputs.cache
+E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Debug\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Debug\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomTest\IntercomTest\bin\Debug\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\IntercomTest\bin\Debug\IntercomTest.pdb
