@@ -8,3 +8,13 @@ E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsole
 E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.csproj.CoreCompileInputs.cache
 E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.exe
 E:\Repo\IntercomTest\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.pdb
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\customers.txt
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\IntercomConsoleApp.exe.config
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\IntercomConsoleApp.exe
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\IntercomConsoleApp.pdb
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomConsoleApp\bin\Release\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.csprojResolveAssemblyReference.cache
+E:\Repo\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.csproj.CoreCompileInputs.cache
+E:\Repo\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.exe
+E:\Repo\IntercomTest\IntercomConsoleApp\obj\Release\IntercomConsoleApp.pdb

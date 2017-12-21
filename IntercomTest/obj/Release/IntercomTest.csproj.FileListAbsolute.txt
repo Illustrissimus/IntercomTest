@@ -3,3 +3,9 @@ E:\Repo\IntercomTest\IntercomTest\IntercomTest\bin\Release\IntercomTest.pdb
 E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Release\IntercomTest.csproj.CoreCompileInputs.cache
 E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Release\IntercomTest.dll
 E:\Repo\IntercomTest\IntercomTest\IntercomTest\obj\Release\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomTest\bin\Release\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\bin\Release\IntercomTest.pdb
+E:\Repo\IntercomTest\IntercomTest\obj\Release\IntercomTest.csprojResolveAssemblyReference.cache
+E:\Repo\IntercomTest\IntercomTest\obj\Release\IntercomTest.csproj.CoreCompileInputs.cache
+E:\Repo\IntercomTest\IntercomTest\obj\Release\IntercomTest.dll
+E:\Repo\IntercomTest\IntercomTest\obj\Release\IntercomTest.pdb
